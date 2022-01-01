@@ -66,8 +66,13 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android'],
-			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	    'F73838'],
+			['Vs Kauan shock'],         
+                        ['kauan shock',             'kauan shock',          'criado do mod'
+                        ['natsuki',                 'natsuki',              'fez o sprite do Henrique'   
+                        ['nyne 08',                 'nyne 08',              'mia imã mais velha'
+                        ['zack animations br',      'zack',                 'um cara legal'
+                        ['Psych Engine Android'],
+			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/OvbVzdVTWrribQ',	    'F73838'],
 			['Sirox',		        'sirox',		    'Fixed a lot of shit, added videoBG, help with editors',	                 'https://www.youtube.com/channel/UCqp6FttWJlp67vHT8n-_uKw',	    '261EA9'],		
 			['ELfox',               'elfox',            'Created The Method To Port Modding Features',                    'https://t.me/ELfox513',           '53E52C'],				
 			[''],
